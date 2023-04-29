@@ -1,14 +1,12 @@
-# Spectrum
-shit gta modmenu launcher decompiled & deobfuscated
-
-note that this uses DiscordRPC.dll and Newtonsoft.Json, also no guarantee for safety since I didn't really test it out
-can be used to crack their shit if they have authentication on them, suprisingly enough they have actual servers to host their mod menu and shit, but no protection so you can just download everything lmao.
-also you can bypass the auth on this launcher rather easily so you can use that instead of having to deal with their cheats
-
-they download their textures, injector and actual menu from the server using this launcher!!!!
-
-and yes there were some files that remained obfuscated for some reason, but they aren't vital for atleast downloading their menu. also they store their credentials in plain text in registry :D
-
-decompiled & deobfuscated by the one and only nukkkiz
-
-questions at discord: nukkkiz#4400
+# <h1 align="center"> Spectrum</h1>
+<h4 align="center"> collecting and storing users' ip and machine info since 2023</h4>
+<p align="center">
+<h1 align="center">: what? :</h1>
+<h4 align="center"> this is a trash garbage IP collector mod menu launcher, but deobfuscated and decompiled to source code. Likely not buildable since some files remained obfuscated for some reason. The mod menu without this piece of software garbage will be provided as a release.</h4>
+<h1 align="center">: why? :</h1>
+<h4 align="center"> i was bored</h4>
+<h1 align="center">: credits :</h1>
+<h4 align="center"> deobfuscation, decompiling - nukkkiz :)</h4>
+<h1 align="center">: dear spectrum cheats :</h1>
+<h4 align="center"> if you dmca this repository you prove yourself to do the following: RAT your users, participate in extremely illegal activities such as sharing underage nudity aswell as other pedophilic acts, as well as share the IP and machine information you steal from them to Bytedance </h4>
+</p>
