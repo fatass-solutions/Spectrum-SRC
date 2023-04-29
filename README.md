@@ -6,7 +6,9 @@
 <h1 align="center">: why? :</h1>
 <h4 align="center"> i was bored</h4>
 <h1 align="center">: credits :</h1>
-<h4 align="center"> deobfuscation, decompiling - nukkkiz :)</h4>
+<h4 align="center">
+deobfuscation, decompiling - nukkkiz :)
+providing an account: koshkasobaka/zyph</h4>
 <h1 align="center">: dear spectrum cheats :</h1>
 <h4 align="center"> if you dmca this repository you prove yourself to do the following: RAT your users, participate in extremely illegal activities such as sharing underage nudity aswell as other pedophilic acts, as well as share the IP and machine information you steal from them to Bytedance </h4>
 </p>
