@@ -1,0 +1,21 @@
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.discordmessenger.dll.compressed|2.0.2.0|DiscordMessenger, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null|DiscordMessenger.dll|B17573B7166AB6BF9680F04FC897CABEFCC1514D|12800
+costura.discordrpc.dll.compressed|1.0.175.0|DiscordRPC, Version=1.0.175.0, Culture=neutral, PublicKeyToken=null|DiscordRPC.dll|E70E10A18A3AE85CD1CA9BE66A7BB46D99CCCCD3|81408
+costura.discordrpc.pdb.compressed|||DiscordRPC.pdb|C4A79AE06E8BE9E5B776DF376130CCA4A6AE24AF|26420
+costura.microsoft.bcl.asyncinterfaces.dll.compressed|5.0.0.0|Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|Microsoft.Bcl.AsyncInterfaces.dll|5DBF1534FFBFF016CC45559EB5EFF3DC4252A522|20872
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|7D0AD03FBDA1C24F883116B940717E596073AE96|701992
+costura.penet.asn1.dll.compressed|2.0.0.0|PeNet.Asn1, Version=2.0.0.0, Culture=neutral, PublicKeyToken=1e2e3568f0050bf5|PeNet.Asn1.dll|49CD37DF729E6A119F791FCDB6CADDEB1DD47615|27136
+costura.penet.dll.compressed|2.9.8.0|PeNet, Version=2.9.8.0, Culture=neutral, PublicKeyToken=6cf2bfba59bcfb3f|PeNet.dll|EA028405B3138D49C48ED624145F764CF6492AFD|182784
+costura.reloaded.memory.dll.compressed|7.1.0.0|Reloaded.Memory, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null|Reloaded.Memory.dll|8EDD93B51D645F086BF1DDA8CA2711B014FF0058|53248
+costura.restsharp.dll.compressed|108.0.3.0|RestSharp, Version=108.0.3.0, Culture=neutral, PublicKeyToken=598062e77f915f75|RestSharp.dll|651422F3B71CE3888D7AD9D307319326F7245C19|156672
+costura.system.buffers.dll.compressed|4.0.3.0|System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Buffers.dll|2F410A0396BC148ED533AD49B6415FB58DD4D641|20856
+costura.system.diagnostics.diagnosticsource.dll.compressed|6.0.0.0|System.Diagnostics.DiagnosticSource, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|ADEDF5042AEAE3A0482125C01EE4334B04C5E585|166512
+costura.system.memory.dll.compressed|4.0.1.2|System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Memory.dll|3C5C5DF5F8F8DB3F0A35C5ED8D357313A54E3CDE|142240
+costura.system.numerics.vectors.dll.compressed|4.1.4.0|System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Numerics.Vectors.dll|3D216458740AD5CB05BC5F7C3491CDE44A1E5DF0|115856
+costura.system.runtime.compilerservices.unsafe.dll.compressed|6.0.0.0|System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Runtime.CompilerServices.Unsafe.dll|180A7BAAFBC820A838BBACA434032D9D33CCEEBE|18024
+costura.system.security.cryptography.pkcs.dll.compressed|6.0.0.1|System.Security.Cryptography.Pkcs, Version=6.0.0.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.Pkcs.dll|B24A5B7B5FE235DA08B008EBC954E72119A3E85E|21120
+costura.system.text.encodings.web.dll.compressed|5.0.0.0|System.Text.Encodings.Web, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Text.Encodings.Web.dll|23A0B63A62A6F0907DAF759088A2A489990FCF2F|65928
+costura.system.text.json.dll.compressed|5.0.0.1|System.Text.Json, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Text.Json.dll|5E66ACCCCB80C94A70F252F12BF84F60B95280EB|355720
+costura.system.threading.tasks.extensions.dll.compressed|4.2.0.1|System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Threading.Tasks.Extensions.dll|2242627282F9E07E37B274EA36FAC2D3CD9C9110|25984
+costura.system.valuetuple.dll.compressed|4.0.3.0|System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.ValueTuple.dll|D1664731719E85AAD7A2273685D77FEB0204EC98|25232
