@@ -1,4 +1,4 @@
-# <h1 align="center"> Spectrum</h1>
+# <h1 align="center">Spectrum (enhanced edition)</h1>
 <p align="center">
   <img src="https://github.com/fatass-solutions/Spectrum-SRC/blob/main/github/shitrum.png" />
 </p>
