@@ -5,7 +5,7 @@
 <p align="center"> collecting and storing users' ip and machine info since 2023</p>
 <p align="center">
 <h1 align="center">: what? :</h1>
-<p align="center">this is a trash garbage IP collector mod menu launcher, but deobfuscated and decompiled to source code. not buildable because some files remained obfuscated, but everything that actually matters still is here. because the modmenu is free, this software doesn't even really do anything, it just downloads the injector, some assets and the menu dll/asi and injects into gta. the mod menu without this piece of software garbage will be provided as a release.</p>
+<p align="center">this is a trash garbage IP collector mod menu launcher, but deobfuscated and decompiled to source code. not buildable because some files remained obfuscated, but everything that actually matters still is here. because the modmenu is free, this software doesn't even really do anything, it just downloads the injector, some assets and the menu dll/asi and injects into gta. the mod menu without this piece of software garbage will be provided as a release. i was also working on reversing the actual menu aswell, but i didn't really bother even after reversing it to some extent.</p>
 <h1 align="center">: why? :</h1>
 <p align="center"> i was bored and i laughed at your monitoring system</p>
 <h1 align="center">: credits :</h1>
