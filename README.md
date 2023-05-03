@@ -18,3 +18,7 @@ providing an account: koshkasobaka/zyph
 <h1 align="center">: dear spectrum cheats :</h1>
 <p align="center"> if you dmca this repository you prove yourself to do the following: RAT your users, participate in extremely illegal activities such as sharing underage nudity aswell as other pedophilic acts, as well as share the IP and machine information you steal from them to Bytedance </p>
 </p>
+
+<p align="center">
+  <img src="https://github.com/fatass-solutions/Spectrum-SRC/blob/main/github/enhanced.png" />
+</p>
